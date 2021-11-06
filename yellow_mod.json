@@ -1,0 +1,1455 @@
+{
+    "package": {
+        "downloadUrlList": [
+            "https://github.com/odkate/yellow_mod/releases/download/latest/yellow_mod.apk", 
+            "https://drive.google.com/uc?id=1audLVPl3L4jgLdcB9AI_Ak-NR6fhilom",
+            "https://www.dropbox.com/s/5zjho392n2z7mi5/smarttube_beta_update?dl=1"
+        ]
+    },
+
+    "13.42": {
+        "versionCode": 532,
+        "changelog": ["Improve integration with tvQuickActions app"],
+        "changelog_ru": ["Фикс AFR для приложения tvQuickActions"]
+    },
+    "13.39": {
+        "versionCode": 529,
+        "changelog": ["Added two additional SponsorBlock segments: preview/recap and highlight of the video"],
+        "changelog_ru": ["Добавлены два новых сегмента SponsorBlock: содержание пред. эпизода и краткое содержание видео"]
+    },
+    "13.38": {
+        "versionCode": 528,
+        "changelog": ["Screensaver fix"],
+        "changelog_ru": ["Фикс работы скринсейвера"]
+    },
+    "13.37": {
+        "versionCode": 527,
+        "changelog": ["Prev release bugfixes"],
+        "changelog_ru": ["Улучшена интеграция с приложением tvQuickActions"]
+    },
+    "13.36": {
+        "versionCode": 526,
+        "changelog": ["Enable localized audio track selection"],
+        "changelog_ru": ["Не рекомедовать вернулось контекстное меню (не на всех видео)", "Выбор аудиодорожки с разными языками (если видео поддерживает)"]
+    },
+    "13.31": {
+        "versionCode": 521,
+        "changelog": ["Live streams seeking fix"],
+        "changelog_ru": ["Исправление перемотки трансляций"]
+    },
+    "13.30": {
+        "versionCode": 520,
+        "changelog": ["Extend video debug info"],
+        "changelog_ru": ["Отладочная информация для видео показывает тукущее разрешение экрана"]
+    },
+    "13.29": {
+        "versionCode": 519,
+        "changelog": ["Animated preview fix"],
+        "changelog_ru": ["Исправление анимир. превью"]
+    },
+    "13.28": {
+        "versionCode": 518,
+        "changelog": ["Video metadata fix"],
+        "changelog_ru": ["Исправление данных под видео"]
+    },
+    "13.27": {
+        "versionCode": 517,
+        "changelog": ["Unplayable videos fix #10"],
+        "changelog_ru": ["Исправление непроигрываемых видео #10"]
+    },
+    "13.26": {
+        "versionCode": 516,
+        "changelog": ["Trying different tweaks for buffering fix"],
+        "changelog_ru": ["Сомнительные твики по исправлению буферизации"]
+    },
+    "13.25": {
+        "versionCode": 515,
+        "changelog": ["Fix #8 for 144p quality drop"],
+        "changelog_ru": ["Исправление #8 падения качества видео до 144"]
+    },
+    "13.24": {
+        "versionCode": 514,
+        "changelog": ["Fix #7 for 144p quality drop"],
+        "changelog_ru": ["Исправление #7 падения качества видео до 144"]
+    },
+    "13.23": {
+        "versionCode": 513,
+        "changelog": ["Prev release bugfixes"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "13.22": {
+        "versionCode": 512,
+        "changelog": ["Player: possible buffering fix"],
+        "changelog_ru": ["Плеер: возможное исправление буферизации"]
+    },
+    "13.21": {
+        "versionCode": 511,
+        "changelog": ["Fix #6 for 144p quality drop"],
+        "changelog_ru": ["Исправление #6 падения качества видео до 144 на некоторых устройствах"]
+    },
+    "13.20": {
+        "versionCode": 510,
+        "changelog": ["Crash fix"],
+        "changelog_ru": ["Исправление падений"]
+    },
+    "13.19": {
+        "versionCode": 509,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "13.18": {
+        "versionCode": 508,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "13.17": {
+        "versionCode": 507,
+        "changelog": ["Fixing some bugs from the chat"],
+        "changelog_ru": ["Исправление некоторых багов из чата"]
+    },
+    "13.16": {
+        "versionCode": 506,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление багов из чата"]
+    },
+    "13.14": {
+        "versionCode": 504,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "13.13": {
+        "versionCode": 503,
+        "changelog": ["Audio shift setting: increased range"],
+        "changelog_ru": ["Смещение звука: расширен диапазон"]
+    },
+    "13.12": {
+        "versionCode": 502,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "13.11": {
+        "versionCode": 501,
+        "changelog": ["Quick add/remove from the last playlist"],
+        "changelog_ru": ["Быстрое удаление/добавление в последний плейлист"]
+    },
+    "13.10": {
+        "versionCode": 500,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "13.09": {
+        "versionCode": 499,
+        "changelog": ["New setting: Linked devices - Enable link"],
+        "changelog_ru": ["Новая настройка: Привязанные устройства - Включить привязку"]
+    },
+    "13.08": {
+        "versionCode": 498,
+        "changelog": ["Casting: stability fix"],
+        "changelog_ru": ["Улучшения фоновой работы приложения", "Исправление по дублирующимся видео в разных разделах"]
+    },
+    "13.06": {
+        "versionCode": 496,
+        "changelog": ["Background running fix #6?"],
+        "changelog_ru": ["Фикс #6 фоновой работы приложения?"]
+    },
+    "13.05": {
+        "versionCode": 495,
+        "changelog": ["Background running fix #5?", "Duplicated videos fix"],
+        "changelog_ru": ["Фикс #5 фоновой работы приложения?", "Исправление по дублирующимся видео"]
+    },
+    "13.03": {
+        "versionCode": 493,
+        "changelog": ["Background running fix?"],
+        "changelog_ru": ["Фикс фоновой работы приложения?"]
+    },
+    "13.02": {
+        "versionCode": 492,
+        "changelog": ["Remote control fix"],
+        "changelog_ru": ["Фикс управления со смартфона"]
+    },
+    "13.01": {
+        "versionCode": 491,
+        "changelog": ["Channel page: move live to top"],
+        "changelog_ru": ["Канал: Трансляции перемещены на верх"]
+    },
+    "12.99": {
+        "versionCode": 489,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "12.98": {
+        "versionCode": 488,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Удалены отладочные сообщения"]
+    },
+    "12.97": {
+        "versionCode": 487,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "12.96": {
+        "versionCode": 486,
+        "changelog": ["Duplicated videos fix"],
+        "changelog_ru": ["Исправление по дублирующимся видео в разных разделах"]
+    },
+    "12.95": {
+        "versionCode": 485,
+        "changelog": ["Some playlist fixes"],
+        "changelog_ru": ["Исправление нек. плейлистов"]
+    },
+    "12.94": {
+        "versionCode": 484,
+        "changelog": ["Fix #5 for 144p quality drop"],
+        "changelog_ru": ["Исправление #5 падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.93": {
+        "versionCode": 483,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "12.91": {
+        "versionCode": 481,
+        "changelog": ["Fix #4 for 144p quality drop"],
+        "changelog_ru": ["Исправление #4 падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.90": {
+        "versionCode": 480,
+        "changelog": ["Fix #3 for 144p quality drop"],
+        "changelog_ru": ["Исправление #3 падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.89": {
+        "versionCode": 479,
+        "changelog": ["Video format dropping fix (144p) on some devices"],
+        "changelog_ru": ["Исправление падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.88": {
+        "versionCode": 478,
+        "changelog": ["G20S fix #2?"],
+        "changelog_ru": ["G20S fix #2?"]
+    },
+    "12.87": {
+        "versionCode": 477,
+        "changelog": ["G20S fix?"],
+        "changelog_ru": ["G20S fix?"]
+    },
+    "12.86": {
+        "versionCode": 476,
+        "changelog": ["Add sidebar context menu"],
+        "changelog_ru": ["Добавлено контекстное меню для боковой панели"]
+    },
+    "12.85": {
+        "versionCode": 475,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Новая настройка: Спонсорблок>Разное>Цветовые метки", "g20s: возможный фикс меню"]
+    },
+    "12.83": {
+        "versionCode": 473,
+        "changelog": ["Video format selection fix (144p) on some devices"],
+        "changelog_ru": ["Исправление падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.82": {
+        "versionCode": 472,
+        "changelog": ["New setting: Player-Misc-Show video ending time on screen constantly"],
+        "changelog_ru": ["Новая настройка: Плеер-Разное-Постоянно отображать на экране время окончания видео"]
+    },
+    "12.81": {
+        "versionCode": 471,
+        "changelog": ["Tweaking menu button in the player"],
+        "changelog_ru": ["Твики аппаратной кнопки меню в плеере"]
+    },
+    "12.77": {
+        "versionCode": 467,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам #5"]
+    },
+    "12.76": {
+        "versionCode": 466,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам #4"]
+    },
+    "12.75": {
+        "versionCode": 465,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам #3"]
+    },
+    "12.74": {
+        "versionCode": 464,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам #2"]
+    },
+    "12.69": {
+        "versionCode": 459,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление падения качества видео до 144 на некоторых устройствах"]
+    },
+    "12.67": {
+        "versionCode": 457,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.65": {
+        "versionCode": 455,
+        "changelog": ["New setting: Player-Misc-Display time with respect of speed"],
+        "changelog_ru": ["Возможное исправление по g20s", "Новая настройка: Плеер-Разное-Отображать время с учетом скорости воспроизведения"]
+    },
+    "12.63": {
+        "versionCode": 453,
+        "changelog": ["Revert pervious Dune HD changes", "New setting: General-Misc-Disable OK long press handler"],
+        "changelog_ru": ["Откать изменений по Dune HD", "Новая настройка: Общие-Разное-Не обрабатывать долгое нажатие ОК"]
+    },
+    "12.62": {
+        "versionCode": 452,
+        "changelog": ["Dune HD buggy context menu fix"],
+        "changelog_ru": ["Dune HD фикс контекстного меню"]
+    },
+    "12.59": {
+        "versionCode": 449,
+        "changelog": ["Android 4.4 fix"],
+        "changelog_ru": ["Фикс для Android 4.4"]
+    },
+    "12.58": {
+        "versionCode": 448,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Исправление по блокировкам"]
+    },
+    "12.54": {
+        "versionCode": 444,
+        "changelog": ["Android 4.4 fix"],
+        "changelog_ru": ["Фикс для Android 4.4"]
+    },
+    "12.53": {
+        "versionCode": 443,
+        "changelog": ["Very small fixes"],
+        "changelog_ru": ["Очень мелкие изменения"]
+    },
+    "12.52": {
+        "versionCode": 442,
+        "changelog": ["Very small fixes"],
+        "changelog_ru": ["Очень мелкие изменения"]
+    },
+    "12.51": {
+        "versionCode": 441,
+        "changelog": ["Audio track selection fix"],
+        "changelog_ru": ["Исправление выбора аудио трека"]
+    },
+    "12.50": {
+        "versionCode": 440,
+        "changelog": ["Casting: stability fix"],
+        "changelog_ru": ["Управление через телефон: улучшение стабильности"]
+    },
+    "12.49": {
+        "versionCode": 439,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.48": {
+        "versionCode": 438,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.47": {
+        "versionCode": 437,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.46": {
+        "versionCode": 436,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.45": {
+        "versionCode": 435,
+        "changelog": ["AFR fix"],
+        "changelog_ru": ["Исправление автофреймрейта"]
+    },
+    "12.44": {
+        "versionCode": 434,
+        "changelog": ["HW Keyboard fix"],
+        "changelog_ru": ["Исправление аппаратной клавиатуры"]
+    },
+    "12.43": {
+        "versionCode": 433,
+        "changelog": ["AFR pause fix"],
+        "changelog_ru": ["Исправление паузы АФР", "Исправление выбора видеоформата"]
+    },
+    "12.42": {
+        "versionCode": 432,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.41": {
+        "versionCode": 431,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.40": {
+        "versionCode": 430,
+        "changelog": ["Previous release fixes"],
+        "changelog_ru": ["Исправление проблем пред. релиза"]
+    },
+    "12.39": {
+        "versionCode": 429,
+        "changelog": ["Revert prv release changes"],
+        "changelog_ru": ["Откат изменений пред. релиза"]
+    },
+    "12.38": {
+        "versionCode": 428,
+        "changelog": ["Small visual fixes"],
+        "changelog_ru": ["Мелкие визуальные исправления"]
+    },
+    "12.37": {
+        "versionCode": 427,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "12.36": {
+        "versionCode": 426,
+        "changelog": ["Subtitles fix"],
+        "changelog_ru": ["Исправление по субтитрам"]
+    },
+    "12.35": {
+        "versionCode": 425,
+        "changelog": ["Screensaver fix"],
+        "changelog_ru": ["Исправление работы скринсейвера"]
+    },
+    "12.33": {
+        "versionCode": 423,
+        "changelog": ["Player: mouse seeking support"],
+        "changelog_ru": ["Плеер: перемотка мышью"]
+    },
+    "12.31": {
+        "versionCode": 421,
+        "changelog": ["SponsorBlock: added color marks (can't be disabled)", "Settings>General>Backup/Restore data"],
+        "changelog_ru": ["SponsorBlock: цветовые метки (неотключаемые)", "Настройки>Общие>Бэкап и восстановление"]
+    },
+    "12.29": {
+        "versionCode": 419,
+        "changelog": ["Search fixes"],
+        "changelog_ru": ["Исправление по поиску"]
+    },
+    "12.27": {
+        "versionCode": 417,
+        "changelog": ["Search fixes"],
+        "changelog_ru": ["Исправление по поиску"]
+    },
+    "12.26": {
+        "versionCode": 416,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Фикс для открытия плейлиста из контекстного меню"]
+    },
+    "12.25": {
+        "versionCode": 415,
+        "changelog": ["Fixed search result limit"],
+        "changelog_ru": ["Исправлен лимит на результаты поиска"]
+    },
+    "12.24": {
+        "versionCode": 414,
+        "changelog": ["Search fix"],
+        "changelog_ru": ["Исправления по поиску"]
+    },
+    "12.22": {
+        "versionCode": 412,
+        "changelog": ["Fire TV fix"],
+        "changelog_ru": ["Исправления по поиску"]
+    },
+    "12.21": {
+        "versionCode": 411,
+        "changelog": ["Search fix"],
+        "changelog_ru": ["Добавлены дополнительные скорости прокрутки текста"]
+    },
+    "12.19": {
+        "versionCode": 409,
+        "changelog": ["Voice search visual fix"],
+        "changelog_ru": ["Голосовой поиск: визуальное исправление"]
+    },
+    "12.17": {
+        "versionCode": 407,
+        "changelog": ["Add search commit button"],
+        "changelog_ru": ["Добавлена отдельная кнопка для запуска поиска"]
+    },
+    "12.16": {
+        "versionCode": 406,
+        "changelog": ["Empty search fix"],
+        "changelog_ru": ["Исправление пустых результатов поиска"]
+    },
+    "12.15": {
+        "versionCode": 405,
+        "changelog": ["Upcoming translations fix"],
+        "changelog_ru": ["Исправление проблемы, когда ожидаемая трансляция не стартует"]
+    },
+    "12.14": {
+        "versionCode": 404,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Возможность отключения диалога включения голосового поиска"]
+    },
+    "12.12": {
+        "versionCode": 402,
+        "changelog": ["Headphones pause fix 2"],
+        "changelog_ru": ["Исправление паузы с наушников 2"]
+    },
+    "12.11": {
+        "versionCode": 401,
+        "changelog": ["Headphones pause fix"],
+        "changelog_ru": ["Исправление паузы с наушников"]
+    },
+    "12.10": {
+        "versionCode": 400,
+        "changelog": ["Pinned items fix"],
+        "changelog_ru": ["Исправление закрепленных плейлистов"]
+    },
+    "12.09": {
+        "versionCode": 399,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Управления с телефона: откат изменений по управлению звуком"]
+    },
+    "12.07": {
+        "versionCode": 397,
+        "changelog": ["Localization fixed for some langs", "Pinned sidebar items fix"],
+        "changelog_ru": ["Исправление работы видео без видеоряда", "Исправление по некоторым локализациям", "Исправление по управлению звуком с телефона", "Исправление по прикрепленным разделам"]
+    },
+    "12.01": {
+        "versionCode": 391,
+        "changelog": ["Looped videos fix"],
+        "changelog_ru": ["Исправление зацикленных видео"]
+    },
+    "11.98": {
+        "versionCode": 388,
+        "changelog": ["Screensaver fix", "Improve Auto frame rate", "Revert some changes from prev. release"],
+        "changelog_ru": ["Исправление работы скринсейвера", "Улучшение работы автофреймрейта", "Частичный возврат изменений пред. релиза"]
+    },
+    "11.94": {
+        "versionCode": 384,
+        "changelog": ["Previous release fixes"],
+        "changelog_ru": ["Исправление проблем пред. релиза"]
+    },
+    "11.92": {
+        "versionCode": 382,
+        "changelog": ["Fixed disappeared player buttons after PIP"],
+        "changelog_ru": ["Исправлены исчезающие кноки плеера после выхода из режима Картинка в картинке"]
+    },
+    "11.91": {
+        "versionCode": 381,
+        "changelog": ["Language and country selection fix", "Screen dimming fix", "Duplicated videos fix"],
+        "changelog_ru": ["Исправлены проблемы с локализацией на нек. устройствах (настройки языка слетят после обновления)", "Исправлена работа затемнения экрана", "Исправление по дублирующимся видео в разных разделах"]
+    },
+    "11.83": {
+        "versionCode": 373,
+        "changelog": ["Experimental Audio sync fix: Settings>Player>Developer Options>Audio sync fix", "Previous release fixes"],
+        "changelog_ru": ["Опция исправление отставания звука: Настройки>Плеер>Для разработчиков>Audio sync fix", "Исправление проблем пред. релиза"]
+    },
+    "11.82": {
+        "versionCode": 372,
+        "changelog": ["Previous release fixes"],
+        "changelog_ru": ["Исправление проблем пред. релиза"]
+    },
+    "11.81": {
+        "versionCode": 371,
+        "changelog": ["Player: added playback queue button (second row) and respective context menu option", "Context menu: ability to pin any playlist to sidebar", "New option: Settings>General>Misc>Proxy config", "Previous release fixes"],
+        "changelog_ru": ["Плеер: добавлена кнопка очереди воспроизведения и возможность добавления в очередь через контекстное меню", "Контекстное меню: возможность прикрепить на боковую панель любой плейлист", "Возможность подключения веб прокси: Настройки>Общие>Разное>Web Proxy config", "Исправление части проблем пред. релиза"]
+    },
+    "11.78": {
+        "versionCode": 368,
+        "changelog": ["Screensaver replaced with Screen dimming (could be disabled via settings)", "New option: Settings>General>Screen dimming", "Player: add Screen off button (next to the search)", "Added new context menu option: open any playlist content", "Nvidia Shield: possible decoder error fix"],
+        "changelog_ru": ["Скринсейвер заменен затемнением экрана (отключается в настройках)", "Новая настройка: Общие>Затемнение экрана", "Проигрыватель: добавлена кнопка отключения экрана (рядом с поиском)", "Контекстное меню: добавлена возможность открыть содержимое любого плейлиста", "Nvidia Shield: возможное исправление ошибки декодера"]
+    },
+    "11.74": {
+        "versionCode": 364,
+        "changelog": ["Unplayable videos fix #9", "New option: Settings>General>Misc>Hide short video from Subscriptions"],
+        "changelog_ru": ["Исправление непроигрываемых видео #9", "Новая опция: Настройки>Общие>Разное>Скрывать короткие видео"]
+    },
+    "11.73": {
+        "versionCode": 363,
+        "changelog": ["Cast to TV: improved volume control", "Minimized app cache size"],
+        "changelog_ru": ["Трансляция на ТВ: улучшено управление громкостью", "Уменьшен размер кэша приложения"]
+    },
+    "11.66": {
+        "versionCode": 356,
+        "changelog": ["Phone link: added support for latest mobile app version"],
+        "changelog_ru": ["Управление с телефона: поддержка новых версий мобильного клиента"]
+    },
+    "11.65": {
+        "versionCode": 355,
+        "changelog": ["Codec selection fix #3"],
+        "changelog_ru": ["Исправление выбора кодека #3"]
+    },
+    "11.64": {
+        "versionCode": 354,
+        "changelog": ["Codec selection fix #2"],
+        "changelog_ru": ["Исправление выбора кодека #2"]
+    },
+    "11.63": {
+        "versionCode": 353,
+        "changelog": ["Codec selection fix"],
+        "changelog_ru": ["Исправлен выбор кодека"]
+    },
+    "11.62": {
+        "versionCode": 352,
+        "changelog": ["Added av01 codec support"],
+        "changelog_ru": ["Добавлена поддержка кодека av01"]
+    },
+    "11.61": {
+        "versionCode": 351,
+        "changelog": ["Unplayable videos fix #8"],
+        "changelog_ru": ["Исправление непроигрываемых видео #8"]
+    },
+    "11.60": {
+        "versionCode": 350,
+        "changelog": ["Unplayable videos fix #7"],
+        "changelog_ru": ["Исправление непроигрываемых видео #7"]
+    },
+    "11.58": {
+        "versionCode": 348,
+        "changelog": ["Misc fixes", "New setting: About > Preferred update source"],
+        "changelog_ru": ["Мелкие исправления", "Новая настройка: О приложении > Предпочитаемый источник обновления"]
+    },
+    "11.57": {
+        "versionCode": 347,
+        "changelog": ["Fixes for Android 4", "New setting: UI > Card text scroll speed"],
+        "changelog_ru": ["Исправление для Android 4", "Новая настройка: Интерфейс > Скорость прокрутки текста карточки"]
+    },
+    "11.56": {
+        "versionCode": 346,
+        "changelog": ["Increased text scroll speed"],
+        "changelog_ru": ["Скорость прокрутки текста увеличена в 2 раза"]
+    },
+    "11.55": {
+        "versionCode": 345,
+        "changelog": ["Unplayable videos fix #6"],
+        "changelog_ru": ["Исправление непроигрываемых видео #6"]
+    },
+    "11.47": {
+        "versionCode": 337,
+        "changelog": ["Unplayable videos fix #5"],
+        "changelog_ru": ["Исправление непроигрываемых видео #5"]
+    },
+    "11.46": {
+        "versionCode": 336,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "11.45": {
+        "versionCode": 335,
+        "changelog": ["Android 4 crash fix"],
+        "changelog_ru": ["Исправление падений на Android 4"]
+    },
+    "11.44": {
+        "versionCode": 334,
+        "changelog": ["Another buffering fix"],
+        "changelog_ru": ["Очередное исправление буферизации"]
+    },
+    "11.42": {
+        "versionCode": 332,
+        "changelog": ["Possible buffering fixes"],
+        "changelog_ru": ["Возможное исправление буферизации"]
+    },
+    "11.40": {
+        "versionCode": 330,
+        "changelog": ["Unplayable videos fix #4"],
+        "changelog_ru": ["Исправление непроигрываемых видео #4"]
+    },
+    "11.39": {
+        "versionCode": 329,
+        "changelog": ["Unplayable videos fix #3"],
+        "changelog_ru": ["Исправление непроигрываемых видео #3"]
+    },
+    "11.38": {
+        "versionCode": 328,
+        "changelog": ["Unplayable videos fix #2"],
+        "changelog_ru": ["Исправление непроигрываемых видео #2"]
+    },
+    "11.37": {
+        "versionCode": 327,
+        "changelog": ["Unplayable videos fix"],
+        "changelog_ru": ["Исправление непроигрываемых видео"]
+    },
+    "11.33": {
+        "versionCode": 323,
+        "changelog": ["History fix"],
+        "changelog_ru": ["Исправление истории"]
+    },
+    "11.32": {
+        "versionCode": 322,
+        "changelog": ["Constant buffering fix"],
+        "changelog_ru": ["Исправление постоянной буферизации"]
+    },
+    "11.28": {
+        "versionCode": 318,
+        "changelog": ["History fix", "Settings: added country selection"],
+        "changelog_ru": ["Исправление истории", "Настройки: выбор страны"]
+    },
+    "11.27": {
+        "versionCode": 317,
+        "changelog": ["Improve live streams quality"],
+        "changelog_ru": ["Улучшение качества стримов"]
+    },
+    "11.22": {
+        "versionCode": 312,
+        "changelog": ["Fix for decoder error on some devices"],
+        "changelog_ru": ["Исправление ошибки видеодекодера на некоторых устройствах"]
+    },
+    "11.21": {
+        "versionCode": 311,
+        "changelog": ["Playback fix for unsigned users"],
+        "changelog_ru": ["Исправление воспроизведения для незалогиненых пользователей"]
+    },
+    "11.20": {
+        "versionCode": 310,
+        "changelog": ["Misc bugfixes"],
+        "changelog_ru": ["Исправление мелких багов"]
+    },
+    "11.18": {
+        "versionCode": 308,
+        "changelog": ["Fixes for Android 4/5/6"],
+        "changelog_ru": ["Исправление для Android 4/5/6"]
+    },
+    "11.17": {
+        "versionCode": 307,
+        "changelog": ["History fix"],
+        "changelog_ru": ["Исправление истории"]
+    },
+    "11.7": {
+        "versionCode": 297,
+        "changelog": ["Ability to pin user playlist to sidebar (via playlist context menu)", "Stability improvements"],
+        "changelog_ru": ["Возможность прикрепить пользовательский плейлист на боковую панель (через контекстное меню)", "Улучшение стабильности работы"]
+    },
+    "11.6": {
+        "versionCode": 296,
+        "changelog": ["Constant buffering fix?", "ATV channels fix"],
+        "changelog_ru": ["Исправление постоянной буферизации?", "Исправление каналов ATV"]
+    },
+    "11.3": {
+        "versionCode": 293,
+        "changelog": ["New setting: General > Background playback (activation)"],
+        "changelog_ru": ["Новая настройка: Общие > Фоновое воспроизведение (активация)"]
+    },
+    "11.2": {
+        "versionCode": 292,
+        "changelog": ["UI of Channels section now more compact", "New setting: Interface > Misc > Revert old look of Channels section", "New setting: Player > Misc > Show always on screen clock", "Background playback reworked. Setting moved to General"],
+        "changelog_ru": ["Интерфейс раздела Каналы сделан более компактным", "Новая настройка: Интерфейс > Разное > Вернуть старый вид раздела Каналы", "Новая настройка: Плеер > Разное > Часы всегда на экране", "Переработано фоновое воспроизведение. Настройка перемещена в раздел Общие."]
+    },
+    "11.0": {
+        "versionCode": 290,
+        "changelog": ["Channel section reworked", "Added PIP controls", "Misc fixes"],
+        "changelog_ru": ["Переработан раздел Каналы", "Картинка в картинке: добавлены кнопки управления", "Мелкие исправления"]
+    },
+    "10.141": {
+        "versionCode": 281,
+        "changelog": ["New setting: aspect ratio (merged with zoom)", "New setting category: Player > Tweaks"],
+        "changelog_ru": ["Новая настройка: соотн. сторон (объединена с зумом)", "Новая категория настроек: Видеоплеер > Tweaks"]
+    },
+    "10.127": {
+        "versionCode": 267,
+        "changelog": ["Login fix"],
+        "changelog_ru": ["Исправление входа в аккаунт"]
+    },
+    "10.126": {
+        "versionCode": 266,
+        "changelog": ["Optimizations for devices with 1GB of RAM"],
+        "changelog_ru": ["Оптимизации для устройств с 1Гб оперативной памяти"]
+    },
+    "10.124": {
+        "versionCode": 264,
+        "changelog": ["Casting fix", "New setting: Player > Misc > Frame drops fix", "New setting: Player > Misc > Remember speed per video"],
+        "changelog_ru": ["Управление с телефона: исправление невозможности подключения", "Новая настройка: Видеоплеер > Разное > Frame drops fix", "Новая настройка: Видеоплеер > Разное > Запоминать скорость для каждого видео"]
+    },
+    "10.122": {
+        "versionCode": 262,
+        "changelog": ["New setting: Player > Misc > Amlogic fix"],
+        "changelog_ru": ["Новая настройка: Видеоплеер > Разное > Amlogic fix"]
+    },
+    "10.119": {
+        "versionCode": 259,
+        "changelog": ["Misc bugfixes"],
+        "changelog_ru": ["Исправление мелких багов"]
+    },
+    "10.115": {
+        "versionCode": 255,
+        "changelog": ["Another SponsorBlock fixes"],
+        "changelog_ru": ["Снова улучшения по SponsorBlock"]
+    },
+    "10.114": {
+        "versionCode": 254,
+        "changelog": ["SponsorBlock stability improvements"],
+        "changelog_ru": ["SponsorBlock: улучшена стабильность работы"]
+    },
+    "10.113": {
+        "versionCode": 253,
+        "changelog": ["Player: suggestions updating more frequently"],
+        "changelog_ru": ["Плеер: рекомендации обновляются чаще"]
+    },
+    "10.112": {
+        "versionCode": 252,
+        "changelog": ["Casting: added volume control"],
+        "changelog_ru": ["Управление через телефон: добавлено управление громкостью"]
+    },
+    "10.111": {
+        "versionCode": 251,
+        "changelog": ["Casting: stability fix"],
+        "changelog_ru": ["Управление через телефон: улучшена стабильность"]
+    },
+    "10.110": {
+        "versionCode": 250,
+        "changelog": ["Playback: pause mode fix"],
+        "changelog_ru": ["Плеер: исправление для режима паузы"]
+    },
+    "10.109": {
+        "versionCode": 249,
+        "changelog": ["Casting: auto turn screen on?"],
+        "changelog_ru": ["Управление через телефон: авто включение экрана?"]
+    },
+    "10.108": {
+        "versionCode": 248,
+        "changelog": ["Casting: prev/next controls fix"],
+        "changelog_ru": ["Управление через телефон: исправление кнопок пред/след"]
+    },
+    "10.107": {
+        "versionCode": 247,
+        "changelog": ["ATV: channel toast removed"],
+        "changelog_ru": ["ATV: удалено сообщение при открытии канала"]
+    },
+    "10.106": {
+        "versionCode": 246,
+        "changelog": ["Casting: improved stability. Pls, reconnect your phone after update."],
+        "changelog_ru": ["Управление через телефон: улучшена стабильность. Необходимо переподключить телефон после обновления."]
+    },
+    "10.105": {
+        "versionCode": 245,
+        "changelog": ["Channel section fix"],
+        "changelog_ru": ["Исправление раздела Каналы"]
+    },
+    "10.102": {
+        "versionCode": 242,
+        "changelog": ["Crash fixes on some devices"],
+        "changelog_ru": ["Исправление падений на нек. девайсах"]
+    },
+    "10.100": {
+        "versionCode": 240,
+        "changelog": ["Crash fixes on some devices"],
+        "changelog_ru": ["Исправление падений на нек. девайсах"]
+    },
+    "10.98": {
+        "versionCode": 238,
+        "changelog": ["Android 6 history fix"],
+        "changelog_ru": ["Фикс истории на Android 6"]
+    },
+    "10.96": {
+        "versionCode": 236,
+        "changelog": ["Open next video fix"],
+        "changelog_ru": ["Фикс следующего видео"]
+    },
+    "10.95": {
+        "versionCode": 235,
+        "changelog": ["Android 4.2 fix"],
+        "changelog_ru": ["Исправление для Android 4.2"]
+    },
+    "10.94": {
+        "versionCode": 234,
+        "changelog": ["Casting: improved history syncing"],
+        "changelog_ru": ["Управление через телефон: улучшена синхронизация истории"]
+    },
+    "10.93": {
+        "versionCode": 233,
+        "changelog": ["Changed priority of video profiles"],
+        "changelog_ru": ["Изменение приоритета видео профилей"]
+    },
+    "10.92": {
+        "versionCode": 232,
+        "changelog": ["Fixed crash on previous release"],
+        "changelog_ru": ["Исправлено падение на пред. релизе"]
+    },
+    "10.91": {
+        "versionCode": 231,
+        "changelog": ["AFR: improved resolution switch"],
+        "changelog_ru": ["АФР: улучшения при выборе подходящего разрешения"]
+    },
+    "10.90": {
+        "versionCode": 230,
+        "changelog": ["Crash fix when opening videos"],
+        "changelog_ru": ["Исправление падений при открытии видео"]
+    },
+    "10.89": {
+        "versionCode": 229,
+        "changelog": ["Fix for Ugoos stock firmware"],
+        "changelog_ru": ["Исправление для стоковой прошивки Ugoos"]
+    },
+    "10.88": {
+        "versionCode": 228,
+        "changelog": ["Crash fixes on some devices"],
+        "changelog_ru": ["Исправление падений на нек. девайсах"]
+    },
+    "10.86": {
+        "versionCode": 226,
+        "changelog": ["Translations update"],
+        "changelog_ru": ["Обновление перевода"]
+    },
+    "10.85": {
+        "versionCode": 225,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "10.84": {
+        "versionCode": 224,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "10.83": {
+        "versionCode": 223,
+        "changelog": ["Crash fixes on some devices"],
+        "changelog_ru": ["Исправление падений на нек. девайсах"]
+    },
+    "10.82": {
+        "versionCode": 222,
+        "changelog": ["Unplayable videos fix"],
+        "changelog_ru": ["Исправление непроигрываемых видео"]
+    },
+    "10.81": {
+        "versionCode": 221,
+        "changelog": ["Settings/General/Force exit if video has been opened from external source"],
+        "changelog_ru": ["Настройки/Общие/Принудительный выход, если видео открыто из внешнего источника"]
+    },
+    "10.80": {
+        "versionCode": 220,
+        "changelog": ["Crash fixes on some devices"],
+        "changelog_ru": ["Исправление падений на нек. девайсах"]
+    },
+    "10.79": {
+        "versionCode": 219,
+        "changelog": ["SponsorBlock settings: added categories"],
+        "changelog_ru": ["Настройки SponsorBlock: добавлен выбор категорий"]
+    },
+    "10.78": {
+        "versionCode": 218,
+        "changelog": ["New setting: Content blocking > SponsorBlock"],
+        "changelog_ru": ["Новая настройка: Блокировка контента > SponsorBlock"]
+    },
+    "10.77": {
+        "versionCode": 217,
+        "changelog": ["UI scale separated to new setting category", "Casting: improved sync with phone"],
+        "changelog_ru": ["Масштаб интерфейса улучшен и выделен в отдельную категорию настроек", "Управление через телефон: улучшена синхронизация"]
+    },
+    "10.76": {
+        "versionCode": 216,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "10.75": {
+        "versionCode": 215,
+        "changelog": ["Added new setting: Cast from phone", "UI bugfixes: dialogs, context menus etc"],
+        "changelog_ru": ["Добавлена новая настройка: управление через телефон", "Исправление багов интерфейса: диалоги, контекстное меню и т.д."]
+    },
+    "10.74": {
+        "versionCode": 214,
+        "changelog": ["Bugfixes: horizontal scroll fix, player clock fix", "Channels section: mark as watched context menu", "Settings/Player/Misc/Remember speed setting"],
+        "changelog_ru": ["Исправление багов: горизонатальной прокрутки, замерших часов в плеере", "Раздел Каналы: контекстное меню: отметить канал как просмотренный", "Настройки/Плеер/Разное/Запоминать скорость"]
+    },
+    "10.73": {
+        "versionCode": 213,
+        "changelog": ["Android 8.0 dialog transparency fix"],
+        "changelog_ru": ["Android 8.0 исправление непрозрачных диалогов"]
+    },
+    "10.72": {
+        "versionCode": 212,
+        "changelog": ["New setting: UI/Card style/Auto-scroll text"],
+        "changelog_ru": ["Новая настройка: Интерфейс/Стиль карточек/Автопрокрутка текста"]
+    },
+    "10.71": {
+        "versionCode": 211,
+        "changelog": ["Audio shift: step 0.25 sec"],
+        "changelog_ru": ["Смещение аудио: шаг 0.25 сек"]
+    },
+    "10.70": {
+        "versionCode": 210,
+        "changelog": ["Added player option: audio shift"],
+        "changelog_ru": ["Добавлена настройка плеера: смещение аудио"]
+    },
+    "10.69": {
+        "versionCode": 209,
+        "changelog": ["Player option: auto frame rate pause", "Prev release fixes"],
+        "changelog_ru": ["Настройка: пауза при применении автофреймрейта", "Исправление багов пред. релиза"]
+    },
+    "10.68": {
+        "versionCode": 208,
+        "changelog": ["Context menu: add subscribe and share", "Player: quick PIP button"],
+        "changelog_ru": ["Контекстное меню: добавлено подписаться и поделиться", "Плеер: кнопка перехода в режим Картинка в картинке"]
+    },
+    "10.67": {
+        "versionCode": 207,
+        "changelog": ["Player: added seeking preview type option", "Channels section: added context menu items", "PIP mode bugfixes"],
+        "changelog_ru": ["Плеер: выбор типа превью при перемотке", "Раздел каналов: добавлено контекстное меню", "Исправление багов режима Картинка в картинке"]
+    },
+    "10.59": {
+        "versionCode": 199,
+        "changelog": ["Player: added Video Zoom option", "Player: seeking thumbnails reworked", "Settings: player options moved to Settings/Player", "Settings: app exit behavior (UI/App exit)", "Numerious bugfixes: ATV channels, channels horizontal scroll"],
+        "changelog_ru": ["Плеер: видео зум", "Плеер: переработано превью при перемотке", "Настройки: настройки плеера продублированы в разделе Настройки", "Настройки: выход из приложения по одинарному назад (Интерфейс/Выход из приложения)", "Исправление багов: ATV каналы, горизонатальная прокрутка на канале"]
+    },
+    "10.50": {
+        "versionCode": 190,
+        "changelog": ["Revert ExoPlayer version (regression)"],
+        "changelog_ru": ["Откат версии ExoPlayer (регрессия?)"]
+    },
+    "10.49": {
+        "versionCode": 189,
+        "changelog": ["Player handling improved a bit"],
+        "changelog_ru": ["Улучшено управление плеером"]
+    },
+    "10.48": {
+        "versionCode": 188,
+        "changelog": ["Bump ExoPlayer to 2.12.2"],
+        "changelog_ru": ["Обновление ExoPlayer до 2.12.2"]
+    },
+    "10.47": {
+        "versionCode": 187,
+        "changelog": ["Another auto-update fix"],
+        "changelog_ru": ["Еще одно исправление автообновления"]
+    },
+    "10.46": {
+        "versionCode": 186,
+        "changelog": ["Auto-update fixes"],
+        "changelog_ru": ["Исправления автообновления"]
+    },
+    "10.45": {
+        "versionCode": 185,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.44": {
+        "versionCode": 184,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.43": {
+        "versionCode": 183,
+        "changelog": ["Language switch fix on Android 9", "ATV search fix for channels", "Playlists: grid view", "Settings/Player/Pause when seeking", "Settings/Interface/Playlists style"],
+        "changelog_ru": ["Исправлено изменение языка на Android 9", "Исправлено открытие каналов в поиске на ATV", "Плейлисты: отображение в виде сетки", "Настройки/Плеер/Пауза при перемотке", "Настройки/Интерфейс/Стиль отображения Плейлистов"]
+    },
+    "10.31": {
+        "versionCode": 171,
+        "changelog": ["Player seek fix"],
+        "changelog_ru": ["Исправлена перемотка в плеере"]
+    },
+    "10.29": {
+        "versionCode": 169,
+        "changelog": ["Frame drop fix on some devices?"],
+        "changelog_ru": ["Исправлено выпадения кадров на нек. устройствах?"]
+    },
+    "10.28": {
+        "versionCode": 168,
+        "changelog": ["Fixed bug with settings", "Settings: new channels sorting"],
+        "changelog_ru": ["Исправление бага с настройками", "Настройки: сортировка каналов"]
+    },
+    "10.27": {
+        "versionCode": 167,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.26": {
+        "versionCode": 166,
+        "changelog": ["Bugfixes", "New settings items"],
+        "changelog_ru": ["Исправление багов", "Новые настройки"]
+    },
+    "10.25": {
+        "versionCode": 165,
+        "changelog": ["Bugfixes"],
+        "changelog_ru": ["Исправление багов"]
+    },
+    "10.24": {
+        "versionCode": 164,
+        "changelog": ["Bugfixes"],
+        "changelog_ru": ["Исправление багов"]
+    },
+    "10.23": {
+        "versionCode": 163,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.22": {
+        "versionCode": 162,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.21": {
+        "versionCode": 161,
+        "changelog": ["Player seek previews"],
+        "changelog_ru": ["Плеер: добавлены превью при перемотке"]
+    },
+    "10.20": {
+        "versionCode": 160,
+        "changelog": ["Prev release fixes"],
+        "changelog_ru": ["Исправление пред. релиза"]
+    },
+    "10.18": {
+        "versionCode": 158,
+        "changelog": ["Settings/Interface/Cards style/Multiline titles"],
+        "changelog_ru": ["Настройки/Интерфейс/Стиль карточек/Несколько строк в загловках"]
+    },
+    "10.17": {
+        "versionCode": 157,
+        "changelog": ["Instant voice search is disabled by default", "Settings/Search/Enable instant voice search", "More context menu entries", "New background playback option (Android 5,6,7)"],
+        "changelog_ru": ["Немедленный голосовой поиск отключен по-умолчанию", "Настройки/Поиск/Немедленный голосовой поиск", "Новые элементы контекстного меню", "Доп. опция фонового воспроизведения (Android 5,6,7)"]
+    },
+    "10.5": {
+        "versionCode": 145,
+        "changelog": ["Settings/Account/Select on boot", "Settings/Player/Misc/Precise date in description", "Minor ui changes"],
+        "changelog_ru": ["Настройки/Аккаунты/Выбирать на старте", "Настройки/Плеер/Разное/Точная дата в описании", "Небольшие изменения интерфейса"]
+    },
+    "10.3": {
+        "versionCode": 143,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "10.2": {
+        "versionCode": 142,
+        "changelog": ["Settings/About/Disable update check"],
+        "changelog_ru": ["Настройки/О приложении/Не проверять обновления"]
+    },
+    "10.1": {
+        "versionCode": 141,
+        "changelog": ["Account selection on boot"],
+        "changelog_ru": ["Выбор аккаунта на старте"]
+    },
+    "10.0": {
+        "versionCode": 140,
+        "changelog": ["Red theme"],
+        "changelog_ru": ["Добавлена красная тема"]
+    },
+    "9.8": {
+        "versionCode": 138,
+        "changelog": ["Added new grey theme"],
+        "changelog_ru": ["Добавлена серая тема"]
+    },
+    "9.6": {
+        "versionCode": 136,
+        "changelog": ["Unplayable videos fix", "Search ui fix"],
+        "changelog_ru": ["Исправление непроигрываемых видео", "Изменение в работе поиска"]
+    },
+    "9.3": {
+        "versionCode": 133,
+        "changelog": ["PIP logic change"],
+        "changelog_ru": ["Изменение в логике режима Картинка в картинке"]
+    },
+    "8.9": {
+        "versionCode": 129,
+        "changelog": ["UI related bugfixes"],
+        "changelog_ru": ["Исправление багов интерфейса"]
+    },
+    "8.7": {
+        "versionCode": 127,
+        "changelog": ["UI scale setting"],
+        "changelog_ru": ["Добавлена настройка масштаба интерфейса"]
+    },
+    "8.6": {
+        "versionCode": 126,
+        "changelog": ["UI scale fix on some devices"],
+        "changelog_ru": ["Исправлен масштаб интерфейса не нек. устройствах"]
+    },
+    "8.4": {
+        "versionCode": 124,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "8.3": {
+        "versionCode": 123,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "8.2": {
+        "versionCode": 122,
+        "changelog": ["Update translations"],
+        "changelog_ru": ["Обновление перевода"]
+    },
+    "8.0": {
+        "versionCode": 120,
+        "changelog": ["Search tags"],
+        "changelog_ru": ["Подсказки при поиске"]
+    },
+    "7.9": {
+        "versionCode": 119,
+        "changelog": ["New setting: Large UI"],
+        "changelog_ru": ["Новая настройка: увеличенный интерфейс"]
+    },
+    "7.7": {
+        "versionCode": 117,
+        "changelog": ["Update translations"],
+        "changelog_ru": ["Обновление перевода"]
+    },
+    "7.6": {
+        "versionCode": 116,
+        "changelog": ["Frame drop fix on some devices?"],
+        "changelog_ru": ["Исправлено выпадения кадров на нек. устройствах?"]
+    },
+    "7.5": {
+        "versionCode": 115,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "7.4": {
+        "versionCode": 114,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "7.3": {
+        "versionCode": 113,
+        "changelog": ["Prev release fix"],
+        "changelog_ru": ["Исправление багов пред. релиза"]
+    },
+    "7.2": {
+        "versionCode": 112,
+        "changelog": ["Boot to section setting", "My videos fix"],
+        "changelog_ru": ["Настройка: загружаться в раздел", "Исправление персональных видео"]
+    },
+    "7.1": {
+        "versionCode": 111,
+        "changelog": ["Like and subscribe fix", "More translations"],
+        "changelog_ru": ["Исправление лайков и подписок"]
+    },
+    "7.0": {
+        "versionCode": 110,
+        "changelog": ["Added setting: set-up sections"],
+        "changelog_ru": ["Добавлена настройка разделов"]
+    },
+    "6.8": {
+        "versionCode": 108,
+        "changelog": ["Dubble channels fix", "New setting: Player ui delay"],
+        "changelog_ru": ["Исправление дублирования каналов", "Новая настройка плеера: задержка интерфейса"]
+    },
+    "6.7": {
+        "versionCode": 107,
+        "changelog": ["Misc bugfixes"],
+        "changelog_ru": ["Исправление вылетов не нек. устройствах"]
+    },
+    "6.5": {
+        "versionCode": 105,
+        "changelog": ["About page: check for update"],
+        "changelog_ru": ["О приложении: проверить обновление"]
+    },
+    "6.2": {
+        "versionCode": 102,
+        "changelog": ["Fixed exit from the app"],
+        "changelog_ru": ["Исправление выхода из приложения"]
+    },
+    "6.1": {
+        "versionCode": 101,
+        "changelog": ["Added Channels category", "Added new options"],
+        "changelog_ru": ["Добавлена категория Каналы", "Добавлены новые настройки"]
+    },
+    "6.0": {
+        "versionCode": 100,
+        "changelog": ["Keyboard on search page fix"],
+        "changelog_ru": ["Исправлен баг клавиатуры на странице поиска"]
+    },
+    "5.9": {
+        "versionCode": 99,
+        "changelog": ["Empty category fix"],
+        "changelog_ru": ["Исправление пустых категорий"]
+    },
+    "5.3": {
+        "versionCode": 93,
+        "changelog": ["Multi-account fix"],
+        "changelog_ru": ["Мелкие исправления"]
+    },
+    "5.1": {
+        "versionCode": 91,
+        "changelog": ["Progress bar animation fix"],
+        "changelog_ru": ["Исправлена анимация индикатора прогресса"]
+    },
+    "5.0": {
+        "versionCode": 90,
+        "changelog": ["Settings: select account", "Misc visual fixes"],
+        "changelog_ru": ["Настройки: выбор аккаунта", "Мелкие исправления интерфейса"]
+    },
+    "4.9": {
+        "versionCode": 79,
+        "changelog": ["Fixes for prev release"],
+        "changelog_ru": ["Исправление для пред. релиза"]
+    },
+    "4.7": {
+        "versionCode": 77,
+        "changelog": ["Added context menu for videos", "Playlist fixes", "Minor visual changes"],
+        "changelog_ru": ["Добавлено контекстное меню для видео", "Исправление работы плейлистов", "Мелкие визуальные изменения"]
+    },
+    "4.6": {
+        "versionCode": 76,
+        "changelog": ["Sign-in fix?"],
+        "changelog_ru": ["Исправление входа в аккаунт?"]
+    },
+    "4.51": {
+        "versionCode": 71,
+        "changelog": ["Autoplay fix"],
+        "changelog_ru": ["Исправление автовоспроизведения"]
+    },
+    "4.5": {
+        "versionCode": 65,
+        "changelog": ["Crashfix"],
+        "changelog_ru": ["Исправление падений приложения"]
+    },
+    "4.4": {
+        "versionCode": 64,
+        "changelog": ["Sign-in fix?"],
+        "changelog_ru": ["Исправлен вход в аккаунт?"]
+    },
+    "4.3": {
+        "versionCode": 63,
+        "changelog": ["Fixes for prev release"],
+        "changelog_ru": ["Исправление для пред. релиза"]
+    },
+    "4.2": {
+        "versionCode": 62,
+        "changelog": ["Low memory fix?"],
+        "changelog_ru": ["Исправлено потребление памяти?"]
+    },
+    "4.1": {
+        "versionCode": 61,
+        "changelog": ["Fixes for prev release"],
+        "changelog_ru": ["Исправление для пред. релиза"]
+    },
+    "4.0": {
+        "versionCode": 60,
+        "changelog": ["Animated video previews", "Subscriptions order fix"],
+        "changelog_ru": ["Анимированные превью для видео", "Исправление порядка подписок"]
+    },
+    "3.99": {
+        "versionCode": 59,
+        "changelog": ["Animated text on previews"],
+        "changelog_ru": ["Анимированный текст на превью"]
+    },
+    "3.98": {
+        "versionCode": 58,
+        "changelog": ["Player tweaks"],
+        "changelog_ru": ["Плеер: автовоспроизведение"]
+    },
+    "3.97": {
+        "versionCode": 57,
+        "changelog": ["Crashfixes"],
+        "changelog_ru": ["Критические исправления"]
+    },
+    "3.96": {
+        "versionCode": 56,
+        "changelog": ["Afr resolution fix?"],
+        "changelog_ru": ["Афр: фикс разрешения?"]
+    },
+    "3.95": {
+        "versionCode": 55,
+        "changelog": ["ATV channels fix"],
+        "changelog_ru": ["Исправление каналов ATV"]
+    },
+    "3.93": {
+        "versionCode": 53,
+        "changelog": ["ATV launcher fix"],
+        "changelog_ru": ["Исправления для ATV лаунчера"]
+    },
+    "3.91": {
+        "versionCode": 51,
+        "changelog": ["Darker theme"],
+        "changelog_ru": ["Более темная тема"]
+    },
+    "3.9": {
+        "versionCode": 49,
+        "changelog": ["ATV search"],
+        "changelog_ru": ["ATV поиск"]
+    },
+    "3.8": {
+        "versionCode": 48,
+        "changelog": ["Sign-in fix?"],
+        "changelog_ru": ["Исправлен вход в аккаунт?"]
+    },
+    "3.6": {
+        "versionCode": 46,
+        "changelog": ["Amazon voice search"],
+        "changelog_ru": ["Голосовой поиск на Amazon"]
+    },
+    "3.5": {
+        "versionCode": 45,
+        "changelog": ["UI update"],
+        "changelog_ru": ["Обновление интерфейса"]
+    },
+    "3.4": {
+        "versionCode": 44,
+        "changelog": ["Crash fixes"],
+        "changelog_ru": ["Критические исправления"]
+    },
+    "3.3": {
+        "versionCode": 43,
+        "changelog": ["Misc fixes"],
+        "changelog_ru": ["Исправление багов"]
+    },
+    "3.1": {
+        "versionCode": 41,
+        "changelog": ["PIP fix"],
+        "changelog_ru": ["Исправление фонового воспроизведения"]
+    },
+    "3.0": {
+        "versionCode": 40,
+        "changelog": ["Misc fixes"],
+        "changelog_ru": ["Исправление багов"]
+    },
+    "2.9": {
+        "versionCode": 39,
+        "changelog": ["Debug info"],
+        "changelog_ru": ["Отладочная информация"]
+    },
+    "2.8": {
+        "versionCode": 38,
+        "changelog": ["Small fixes"],
+        "changelog_ru": ["Мелкие изменения"]
+    },
+    "2.7": {
+        "versionCode": 37,
+        "changelog": ["Focused item style"],
+        "changelog_ru": ["Стиль активного элемента"]
+    },
+    "2.6": {
+        "versionCode": 36,
+        "changelog": ["Auto-update fix"],
+        "changelog_ru": ["Исправление обновления"]
+    },
+    "2.5": {
+        "versionCode": 35,
+        "changelog": ["Increase preview size"],
+        "changelog_ru": ["Увеличены превью"]
+    },
+    "2.4": {
+        "versionCode": 34,
+        "changelog": ["Sign-in fix?"],
+        "changelog_ru": ["Исправлен вход в аккаунт?"]
+    },
+    "2.3": {
+        "versionCode": 33,
+        "changelog": ["Video buffer size"],
+        "changelog_ru": ["Видео буфер"]
+    },
+    "2.2": {
+        "versionCode": 32,
+        "changelog": ["Subtitles"],
+        "changelog_ru": ["Субтитры"]
+    },
+    "2.1": {
+        "versionCode": 31,
+        "changelog": ["Channel view"],
+        "changelog_ru": ["Переход на канал"]
+    },
+    "1.9": {
+        "versionCode": 29,
+        "changelog": ["Video speed option"],
+        "changelog_ru": ["Выбор скорости видео"]
+    },
+    "1.7": {
+        "versionCode": 27,
+        "changelog": ["Unplayable videos fix"],
+        "changelog_ru": ["Исправление непроигрываемых видео"]
+    },
+    "1.6": {
+        "versionCode": 26,
+        "changelog": ["Playback fixes"],
+        "changelog_ru": ["Исправления воспроизведения"]
+    },
+    "1.5": {
+        "versionCode": 25,
+        "changelog": ["Android 8 fix"],
+        "changelog_ru": ["Исправления для Android 8"]
+    },
+    "1.3": {
+        "versionCode": 23,
+        "changelog": ["Added playback options"],
+        "changelog_ru": ["Добавлены настройки воспроизведения"]
+    }
+}
